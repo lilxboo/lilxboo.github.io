@@ -1,0 +1,16 @@
+#main-title {
+    color: LimeGreen;
+    font-size: 32px;
+    text-align: center;
+  }
+  
+  .content {
+    background-color: MintCream;
+  }
+   
+  .qwestion article h2 {
+    front-size: 20 px;
+    color: DarkOrange;
+    font-style: italic
+  }
+ 
